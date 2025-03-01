@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/p-c.css";
 import { Link } from "react-router-dom";
 import { MapPin, Phone, Mail } from "lucide-react";
-
+// silamlak
 const PartClients = () => {
   return (
     <>
